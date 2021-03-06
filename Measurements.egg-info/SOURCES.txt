@@ -1,0 +1,14 @@
+CHANGES.txt
+MANIFEST.in
+README.txt
+setup.py
+Measurements.egg-info/PKG-INFO
+Measurements.egg-info/SOURCES.txt
+Measurements.egg-info/dependency_links.txt
+Measurements.egg-info/requires.txt
+Measurements.egg-info/top_level.txt
+doc/todo.rst
+measure/__init__.py
+measure/metrics.py
+measure/norms.py
+scripts/hello.py
