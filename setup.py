@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(name='Measurements',
       url='https://github.com/revego/package_demo',
-      author='John Ladan',
-      author_email='jladan@uwaterloo.ca',
+      author='Mark Garden',
+      author_email='marco@code4you.cloud',
       # Needed to actually package something
       #packages=['capitalize', 'capitalize.test'],
       packages=['measure'],
